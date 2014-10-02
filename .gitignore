@@ -1,16 +1,24 @@
-# Node rules:
-## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
+# Created by https://www.gitignore.io
 
-## Dependency directory
-## Commenting this out is preferred by some people, see
-## https://npmjs.org/doc/faq.html#Should-I-check-my-node_modules-folder-into-git
-node_modules
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
 
-# Book build output
-_book
+# Icon must end with two \r
+Icon
 
-# eBook build output
-*.epub
-*.mobi
-*.pdf
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
