@@ -139,10 +139,6 @@ section.about {
   float: left;
   background: url(../images/los.jpg) no-repeat center center;
   background-size: cover;
-  margin-right: 50px;
-  -ms-transform: rotate(90deg); /* IE 9 */
-  -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
-  transform: rotate(90deg);
 }
 
 .about p {
