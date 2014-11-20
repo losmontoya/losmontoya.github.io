@@ -142,7 +142,7 @@ section.about {
   margin-right: 50px;
   -ms-transform: rotate(90deg); /* IE 9 */
   -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
-  transform: rotate(7deg);
+  transform: rotate(90deg);
 }
 
 .about p {
