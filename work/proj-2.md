@@ -1,5 +1,5 @@
 ---
-title: City In Website Concept
+title: Pop Messenger Case Study
 ---
 
-![City In](assets/img/work/proj-2/CityIn-AntonSkvortsov.jpg)
+![City In](assets/img/work/proj-2/popstudy.jpg)
