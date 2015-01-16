@@ -1,194 +1,41 @@
+---
+---
+
 <!DOCTYPE html>
-<html lang="en">
+<html class="">
 <head>
-  <meta charset="utf-8">
-  <title>losmontoya</title>
-  
-  <!--[if lt IE 9]>
-  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-  
-  <link rel="stylesheet" href="css/base.css" type="text/css" />
-  <link rel="stylesheet" href="css/main.css" type="text/css" />
-  
-  <!-- start Mixpanel --><script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
-  for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
-  mixpanel.init("8fdaeb5a55942642195a84eec9f10c7f");</script><!-- end Mixpanel -->
-  
+  <meta charset="UTF-8">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ site.data.settings.seo.description }}">
+  <meta rel="author" href="{{ site.data.settings.seo.rel-author }}">
+  <meta rel="publisher" href="{{ site.data.settings.seo.rel-publisher }}">
+
+  <title>{{ site.data.settings.title }}</title>
+
+  <link rel="stylesheet" href="assets/css/all.css">
+  <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
 </head>
 <body>
-  
-  <header>
-  
-    <ul class="nav nav-left">
-      <li><a href="#section-about">About</a></li>
-      <li><a href="#section-work">Work</a></li>
-    </ul>
-    
-    <h1 class="logo">LOS</h1>
-    
-    <ul class="nav nav-right">
-      <li><a href="#section-res">RÉsumÉ</a></li>
-      <li><a href="#section-contact">Contact</a></li>
-    </ul>
-    
-  </header>
-  
-  <div class="scroll-header">
-    <div class="logo-big"></div>
-  </div>
-  
-  
-  <div id="section-about"></div>
-  <section class="about">
-    <div class="pic"></div>
-    <div class="copy">
-      <h3>// About</h3>
-      <p>Hello, I'm Carlos Montoya and the obvious truth is that my hair is luxurious and wonderful. What more is there to know about me?</p>
-      
-      <p>All joking aside. I'm a San Francisco based self-taught visual designer with a passion for creating sustainable designs that inspire and excite people.  I do not decorate, I solve UI/UX problems elegantly--on a daily basis.</p>
-      
-      <p>I believe in continued education and growth. The moment I stop growing or get comfortable, is the moment I stop caring.  I have no finish line for what I do, I enjoy the process.</p>
-    </div>
-  </section>
-  
-  
-  <div id="section-work"></div>
-  <section class="work">
-    <div class="selector">
-      <h3>// Work</h3>
-      <div class="selections">
-        <div class="selection selection-1"></div>
-        <div class="selection selection-2"></div>
-        <div class="selection selection-3"></div>
-        <div class="selection selection-4"></div>
-        <div class="selection selection-5"></div>
-        <div class="selection selection-6"></div>
-        <div class="selection selection-7"></div>
-        <div class="selection selection-8"></div>
-        <div class="selection selection-9"></div>
-        <div class="selection selection-10"></div>
-      </div>
-    </div>
-    <div class="viewer">
-      <div class="belt">
-        <img src="images/work/work1.png" />
-        <img src="images/work/work2.jpg" />
-        <img src="images/work/work3.jpg" />
-        <img src="images/work/work4.jpg" />
-        <img src="images/work/work5.jpg" />
-        <img src="images/work/work6.jpg" />
-        <img src="images/work/work7.jpg" />
-        <img src="images/work/work8.jpg" />
-        <img src="images/work/work9.jpg" />
-        <img src="images/work/work10.jpg" />
-        
-      </div>
-    </div>
-  </section>   
-  
-  <div id="section-res"></div>
-  <section class="res">
-  
-    <div class="download">
-      <a href="files/carlos_resume_2014.pdf">Download</a>
-    </div>
-    
-    <div class="expereance">
-      <h3>// RÉsumÉ</h3>
-      
-      <ul>
-        <li>
-          <div class="aside">
-            San Jose, CA<br />
-            Jan 2013 &mdash; Present
-          </div>
-          <h4><a href="http://www.popmessage.com/">Pinger Inc.</a></h4>
-          <p>Senior Visual Designer</p>
-          <p>Sole design resource for the Creative Labs Agility team responsible for the development of innovative user experiences, interface designs, animation designs, visual designs, interactive prototypes, typography, and screen layouts for iOS, Android, Windows Phone, desktop, web and other interactive media.</p>
-        </li>
-        
-        <li>
-          <div class="aside">
-            Redwood City, CA<br />
-            Apr 2012 &mdash; Dec 2012
-          </div>
-          <h4><a href="http://www.share.ad/">Squad, Corp.</a></h4>
-          <p>Chief Experience Architect</p>
-          <p>Directly responsible for delivering all aspects of design, from delivering concepts and prototypes to UI specifications. Responsible for delivering end-to-end user-centric experiences, translate vision into concepts and designs that illustrate simplicity despite underlying complexity and constraints. Cultivate a highly iterative approach to design whilst keeping abreast of the latest technologies and indus- try trends.</p>
-        </li>
-        
-        <li>
-          <div class="aside">
-            Redwood City, CA<br />
-            Jan 2012 &mdash; Jan 2013
-          </div>
-          <h4><a href="http://www.serena.com/index.php/en/">Serena Software</a></h4>
-          <p>UX/UI Designer</p>
-          <p>
-          Work closely with product managers, business analysts, and developers to define product direction and UI/UX requirements and solutions. Work as the sole visual design resource, supporting all current and future web based products. Construct prototypes, page designs, graphics, wireframes, and mockups to support development. Create clickable wireframes and mockups from scratch for development, sales, and marketing within short turnaround time- frames. Establish design standards and specifications. Troubleshoot and resolve issues quickly related to UI design in products.</p>
-        </li>
-      </ul>
-    </div>
-    
-    <div style="clear:both;"></div>
-  </section>
-  
-  
-  <div id="section-contact"></div>
-  <section class="contact">
-    <div class="form-wrap">
-      <h3>// Contact</h3>
-      
-      <div id="contact-wrapper">
-      	<form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>" id="contactform">
-      		<div>
-      			<input type="text" name="contactname" id="contactname" value="" placeholder="Name" />
-      		</div>
-      
-      		<div>
-      			<input type="text" name="email" id="email" value="" placeholder="Email" />
-      		</div>
-      
-      		<div>
-      			<textarea name="message" id="message" placeholder="Message"></textarea>
-      		</div>
-      		
-      	    <input type="submit" value="Submit" name="submit" />
-      	</form>
-      </div>
-      
-      
-    </div>
-    <div class="links">
-      <h3>// Links</h3>
-      <p>In addition to using the form to get a hold of me quick and easy (and safe, I’ll never spam you!) you can find me around the web on these various social media type places.</p>
-    
-      <div class="social-links">
-        <a href="https://www.facebook.com/carlos.a.montoya.75" class="facebook"></a>
-        <a href="https://twitter.com/losmontoya_" class="twitter"></a>
-        <a href="https://www.linkedin.com/profile/view?id=40785762&authType=name&authToken=Yyv3&locale=en_US&pvs=pp&trk=ppro_viewmore" class="linkedin"></a>
-        <a href="https://dribbble.com/los" class="dribbble"></a>
-        <!--<a href="" class="tumblr"></a>-->
-        <!--<a href="" class="wp"></a>-->
-        <!--<a href="" class="spotify"></a>-->
-      </div>
-      
-      <p>Or email me at <a href="mailto:cmntoya@gmail.com" style="color: white;">cmntoya@gmail.com</a></p>
-      
-    </div>
-  </section>
-  
-  
-  <section class="fin">
-    <h3>// Thanks</h3>
-  </section>
-  
 
-  
-  
-  
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
-  <script src="js/functions.js" type="text/javascript"></script>
+{% include header.html %}
+
+{% include about.html %}
+
+{% include work.html %}
+
+{% include clients.html %}
+
+{% include contact.html %}
+
+{% include form.html %}
+
+
+{% include footer.html %}
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="assets/js/functions.js"></script>
+<!-- REMEMBER TO ADD ANALYTICS! -->
 </body>
 </html>
