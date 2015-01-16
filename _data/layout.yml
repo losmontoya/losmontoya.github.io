@@ -4,7 +4,7 @@ animation: "bounceOut"
 
 # Images
 
-logo: ""
+logo: "losavatar.png"
 hero: "hero-bg.jpg"
 avatar: "travitar.jpg"
 
