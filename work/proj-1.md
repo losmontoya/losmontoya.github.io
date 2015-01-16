@@ -2,11 +2,9 @@
 title: Typo International Design Talks Stuff
 ---
 
-![Typo International](assets/img/work/proj-1/img1.jpg)
+![Typo International](assets/img/work/proj-1/bird.jpg)
 
-TYPO: International Design Talks is an annual event held in Berlin, London, and San Francisco. This promotional project is developed to market the event for the designindustry. The use of patterns, sophisticated color scheme and typography are applied for the print and mobile application.
+Bird's Eye Data Consulting: The most challenging part when creating the Identity Design for Bird's Eye Data Consulting was creating an image that was masculine yet approachable. The aligned-direction for this project was to communicate that the brand produces a holistic view to solving problems for their clients.
 
-![Typo International](assets/img/work/proj-1/img2.jpg)
-![Typo International](assets/img/work/proj-1/img3.jpg)
-![Typo International](assets/img/work/proj-1/img4.jpg)
-![Typo International](assets/img/work/proj-1/img5.jpg)
+![Typo International](assets/img/work/proj-1/bird2.jpg)
+![Typo International](assets/img/work/proj-1/bird3.jpg)
