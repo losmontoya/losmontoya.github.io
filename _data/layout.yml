@@ -5,7 +5,7 @@ animation: "bounceOut"
 # Images
 
 logo: "circle.svg"
-hero: "hero-bg.jpg"
+hero: ""
 avatar: "travitar.jpg"
 
 # Colors
