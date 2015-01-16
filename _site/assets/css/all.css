@@ -964,6 +964,8 @@ footer {
     font-size: 28px;
     line-height: 1.2;
     margin: 0 0 20px; }
+  .work-container p {
+    color: #FFCD57; }
   .work-container img {
     max-width: 100%;
     margin-bottom: 20px; }
