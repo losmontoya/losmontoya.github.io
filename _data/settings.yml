@@ -10,7 +10,7 @@ email: cmntoya@gmail.com
 menu:
 - {name: About Me, url: '#about-me'}
 - {name: Work, url: '#work'}
-- {name: Daps, url: '#daps'}
+- {name: Daps, url: '#clients'}
 - {name: Contact, url: '#contact'}
 
 #-------------------------------
