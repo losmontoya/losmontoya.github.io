@@ -2,4 +2,10 @@
 title: Flat Mobile UI/UX Concept
 ---
 
-![Flat Mobile UI/UX Concept](assets/img/work/proj-4/flatmobile-AyoubElred.jpg)
+Logo Concepts: We launched POP Messenger to the iOS, Android, and Windows app stores Summer of 2014. However, before launching with the name and logo that we now have we went through a branding and naming process. We established 4 core names we could go with. The challenge was on getting stakeholders to agree on a name. Part of the challenge was that it is hard to pick a direction when just looking at names on a slide deck, thus I created logo's for each direction so that they all had a competing chance. The winner was POP.
+
+
+![Flat Mobile UI/UX Concept](assets/img/work/proj-4/Mango.jpg)
+![Flat Mobile UI/UX Concept](assets/img/work/proj-4/Pixty.jpg)
+![Flat Mobile UI/UX Concept](assets/img/work/proj-4/Pop.jpg)
+![Flat Mobile UI/UX Concept](assets/img/work/proj-4/Vexy.jpg)
