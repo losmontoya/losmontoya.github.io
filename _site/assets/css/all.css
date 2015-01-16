@@ -557,10 +557,10 @@ a:hover, a:focus {
 /* Selection colors (easy to forget)
  * ------------------------------------	 */
 ::selection {
-  background: #ffff9e; }
+  background: #D7E8D5; }
 
 ::-moz-selection {
-  background: #ffff9e; }
+  background: #D7E8D5; }
 
 img::selection {
   background: transparent; }
@@ -569,7 +569,7 @@ img::-moz-selection {
   background: transparent; }
 
 body {
-  -webkit-tap-highlight-color: #ffff9e; }
+  -webkit-tap-highlight-color: #D7E8D5; }
 
 /* Basic Styles
  * ------------------------------------	 */
@@ -976,7 +976,7 @@ footer {
     top: -4px;
     left: -60px; }
     .work-container .work-return path {
-      fill: rgba(0, 0, 0, 0.4); }
+      fill: #FFCD57; }
     .work-container .work-return:hover {
       opacity: 1; }
 
