@@ -986,7 +986,9 @@ footer {
   .work-container .work-return {
     left: 0px; }
   .work-container h4 {
-    margin-left: 60px; } }
+    margin-left: 60px; }
+  .work-container p {
+    color: #FFCD57; } }
 .section-clients {
   position: relative; }
 
