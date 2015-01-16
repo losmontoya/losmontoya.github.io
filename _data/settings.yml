@@ -62,11 +62,11 @@ projects:
 # Clients Section
 
 clients:
-- {avatar: 'face-aaroni.jpg',
-  name: 'Scott Summers',
-  title: 'Director of Design, OnToText Ind.',
-  quote: '<p><strong>While we all felt that Carlos was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>',
-  logo: 'logo1.png'}
+- {avatar: 'travitar.jpg',
+  name: 'Travis Neilson',
+  title: 'Senior Product Designer, Tubular Labs',
+  quote: '<p><strong>Los is great to work with.</strong> Not just because of his talent and insight, but because of the way he adapts to new problems like a true professional.</p>',
+  logo: 'tubular.png'}
 - {avatar: 'face-atariboy.jpg',
   name: 'Hank McCoy',
   title: 'Eater of Salad, Antartica Int.',
