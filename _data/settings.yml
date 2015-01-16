@@ -29,8 +29,8 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **I am a connoisseur of the mustache** and 
-  I'm a UI/UX designer [by day](http://www.popmessage.com/) and a Brand & Identity designer [by night](https://dribbble.com/los?page=1). I'm also trying this [Podcast thing.](http://www.travandlos.com/)
+  **I am a connoisseur of the mustache.** 
+  UI/UX designer [by day](http://www.popmessage.com/) and a Brand & Identity designer [by night](https://dribbble.com/los?page=1). I'm also trying this [Podcast thing.](http://www.travandlos.com/)
 
 skills:
 - {name: Communication, value: '9'}
