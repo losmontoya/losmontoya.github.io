@@ -4,9 +4,9 @@ animation: "bounceOut"
 
 # Images
 
-logo: "losavatar.svg"
+logo: ""
 hero: "hero-bg.jpg"
-avatar: "travitar.jpg"
+avatar: "losavatar.svg"
 
 # Colors
 
