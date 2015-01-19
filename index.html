@@ -27,7 +27,13 @@ mixpanel.track("Main Page View");
 
 
 <script type="text/javascript">
-    mixpanel.track_links("nav a #about-me", "click nav link", {
+    mixpanel.track_links("nav a #about-me", "click about me", {
+        "referrer": document.referrer
+    });
+</script>
+
+<script type="text/javascript">
+    mixpanel.track_links("nav a #work", "click work", {
         "referrer": document.referrer
     });
 </script>
